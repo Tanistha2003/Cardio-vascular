@@ -1,4 +1,4 @@
-# Cardio-vascular
+# Cardiovascular Disease Classification
 
 The objective of this classification analysis is to develop a machine learning model to predict the likelihood of cardiovascular disease (CVD) or heart disease in individuals based on the provided 11 attributes. We also analyze the relationships between risk factors (e.g., hypertension, diabetes, hyperlipidemia) and cardiovascular outcomes, and identify the most influential features contributing to heart disease, guiding public health initiatives.
 
